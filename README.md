@@ -1,5 +1,5 @@
 <center>
-    <h2>React Native – Sign in with Apple</h2>
+    <h1>React Native – Sign in with Apple</h1>
 </center>
 
 "Sign in with Apple" feature implementation in React Native
