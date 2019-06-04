@@ -1,6 +1,6 @@
 {
   "name": "react-native-apple-sign-in",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Sign in with Apple feature for React Native",
   "main": "index.js",
   "scripts": {

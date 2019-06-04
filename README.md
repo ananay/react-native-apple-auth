@@ -2,7 +2,8 @@
     <h1>React Native – Sign in with Apple</h1>
 </center>
 
-"Sign in with Apple" feature implementation in React Native
+"Sign in with Apple" feature implementation in React Native.
+<b>This library is still under construction.</b>
 
 # Contributing
 
